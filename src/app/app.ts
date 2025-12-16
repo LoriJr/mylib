@@ -1,6 +1,6 @@
 import { Component, signal } from '@angular/core';
-import { Header } from './header/header';
-import { Footer } from './footer/footer';
+import { Header } from './components/header/header';
+import { Footer } from './components/footer/footer';
 
 @Component({
   selector: 'app-root',
