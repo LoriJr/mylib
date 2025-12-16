@@ -1,0 +1,31 @@
+{
+  "livros": [
+    {
+      "id": "1",
+      "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+      "autor": "J.R.R. Tolkien",
+      "imagem": "https://books.google.com.br/books/content?id=hY9oDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "genero": "Fantasia",
+      "dataPublicacao": "1954-07-29",
+      "status": "LIDO"
+    },
+    {
+      "id": "2",
+      "titulo": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "autor": "Robert C. Martin",
+      "imagem": "https://books.google.com.br/books/content?id=_i6bDeoCQzsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "genero": "Tecnologia",
+      "dataPublicacao": "2008-08-01",
+      "status": "LENDO"
+    },
+    {
+      "id": "3",
+      "titulo": "Duna",
+      "autor": "Frank Herbert",
+      "imagem": "https://books.google.com.br/books/content?id=LystDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "genero": "Ficção Científica",
+      "dataPublicacao": "1965-08-01",
+      "status": "QUERO_LER"
+    }
+  ]
+}
