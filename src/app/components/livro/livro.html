@@ -1,1 +1,16 @@
-<p>livro works!</p>
+<section>
+  <div class="capa-livro">
+    <img src="" alt="Capa do Livro {{ livro.titulo }}">
+    <span class="status-tag">{{ livro.status }}</span>
+  </div>
+  <div class="info-livro">
+    <h2 class="titulo-livro">{{ livro.titulo }}</h2>
+    <h3 class="dados-livro">{{ livro.autor }}</h3>
+    <h3 class="dados-livro">{{ livro.genero }}</h3>
+    <h3 class="dados-livro">{{ livro.status }}</h3>
+  </div>
+  <div class="acoes">
+    <button class="btn-editar">Editar</button>
+    <button class="btn-excluir">Excluir</button>
+  </div>
+</section>
