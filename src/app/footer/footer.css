@@ -1,0 +1,13 @@
+.rodape{
+  background-color: #8C8C8C;
+  align-items: center;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  font-family: "Roboto", sans-serif;
+}
+
+.informacao {
+  color: #5f6368;
+  font-weight: 300;
+}

@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+.conteudo-principal {
+  padding: 2rem;
+  min-height: 80vh;
+  background-color: #f5f7fa;
+}
