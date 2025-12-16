@@ -1,7 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+html, body {
+    height: 100%;
+    margin: 0;
+}
 
-main {
+body {
   background-image: url(/imagens/fundo.png);
   background-size: cover;
-  min-height: 90vh;
+  background-position: center center;
+  background-attachment: fixed;
 }
